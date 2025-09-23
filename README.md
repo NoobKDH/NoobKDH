@@ -13,3 +13,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoobKDH&layout=compact&show_icons=true&theme=graywhite)](https://github.com/NoobKDH/github-readme-stats)
 
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeAuto&section=footer)
