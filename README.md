@@ -3,10 +3,8 @@
 ## Contact📫
 <div align=center>
           <a href="mailto:saromeokdh@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saromeokdh@gmail.com"> </a>
-  <a href="devilow102.tistory.com"> <img src="https://img.shields.io/badge/velog-12b886?style=for-the-badge&logo=velog&logoColor=white&link=devilow102.tistory.com"> </a>
-
+          <a href="devilow102.tistory.com"> <img src="https://img.shields.io/badge/velog-12b886?style=for-the-badge&logo=velog&logoColor=white&link=devilow102.tistory.com"> </a>
   <br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyejee0504%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 </div>
 
 
