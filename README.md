@@ -3,7 +3,7 @@
 ## Contact📫
 <div align=center>
           <a href="mailto:saromeokdh@gmail.com"> <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:saromeokdh@gmail.com"> </a>
-          <a href="devilow102.tistory.com"> <img src="https://img.shields.io/badge/velog-12b886?style=for-the-badge&logo=velog&logoColor=white&link=devilow102.tistory.com"> </a>
+          <a href="devilow102.tistory.com"> <img src=tistory?style=for-the-badge&logo=velog&logoColor=white&link=devilow102.tistory.com"> </a>
   <br>
 </div>
 
