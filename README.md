@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=180&section=header&text=My%20GitHub&animation=blink&fontSize=90&rotate=8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=My%20GitHub&animation=blink&fontSize=90&rotate=8)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoobKDH&show_icons=true&theme=graywhite)](https://github.com/NoobKDH/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=saromeokdh)](https://solved.ac/saromeokdh/)
 
