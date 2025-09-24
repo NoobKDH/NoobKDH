@@ -6,7 +6,8 @@
 
 ## Contact📫
 <div align=center>
-          <a href="mailto:saromeokdh@gmail.com"> <img src="https://img.shields.io/badge/ saromeokdh@gmail.com-D14836?style=flat&logo=gmail&logoColor=#FF7F7F&link=mailto:saromeokdh@gmail.com"> </a>
+          <a href="mailto:saromeokdh@gmail.com"> <img src="https://img.shields.io/badge/ saromeokdh@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:saromeokdh@gmail.com"> </a>
+          <a href="mailto:saromeokdh@gmail.com"> <img src="https://img.shields.io/badge/ saromeokdh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:saromeokdh@gmail.com"> </a>
   <br>
 </div>
 
